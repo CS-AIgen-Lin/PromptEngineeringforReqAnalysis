@@ -1,5 +1,5 @@
 ***This is a preliminary draft ******Initially testing adding draft files to respositiory.
-![FAUbanner](https://github.com/user-attachments/assets/1780ddf0-8792-4960-b9d5-aa647da68a81)
+
 Each python file can be run to create a Prompt to build a Requirements Analysis process.
  
 Evaluation of the Best Prompt Engineering Template for Web Landing Page Requirements Analysis
