@@ -1,6 +1,6 @@
 Initially testing adding draft files to respositiory.
 Each python file can be run to create a Prompt to build a Requirements Analysis process.
- 
+ https://raw.githubusercontent.com/genilab-fau/genilab-fau.github.io/8d6ab41403b853a273983e4c06a7e52229f43df5/images/genilab-banner.png
 Evaluation of the Best Prompt Engineering Template for Web Landing Page Requirements Analysis
 A fictional software web application development company, “EasyApps”, has been awarded a contract to build a single web application for a fictional company, “Structured Mechanics Enterprises”,  but are instructed to make the user-facing landing page reflective of a functional area within “Structured Mechanics Enterprises”.
 * Authors: Linda (https://github.com/CS-AIgen-Lin/PromptEngineeringforReqAnalysis.git)
