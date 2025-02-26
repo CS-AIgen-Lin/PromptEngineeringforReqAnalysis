@@ -1,4 +1,3 @@
-***This is a preliminary draft ******Initially testing adding draft files to respositiory.
 ![FAUbanner](https://github.com/user-attachments/assets/47044ff3-c075-401d-afbb-42aefd7a9609)
 
 Assignment 1: The Report.md is a Word document named Report.md.DesignPrompt.docx
