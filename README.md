@@ -1,6 +1,6 @@
 ![FAUbanner](https://github.com/user-attachments/assets/47044ff3-c075-401d-afbb-42aefd7a9609)
 
-Assignment 1: The Report.md is a Word document named Report.md.DesignPrompt.docx
+Assignment 1: The Report.md is a Word document named Report.md.DesignPromptupdatedname.docx
 
 Each python file can be run to create a Prompt to build a Requirements Analysis process.
  
