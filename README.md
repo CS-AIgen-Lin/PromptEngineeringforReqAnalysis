@@ -8,3 +8,4 @@ A fictional software web application development company, “EasyApps”, has be
 * Authors: Lin (https://github.com/CS-AIgen-Lin/PromptEngineeringforReqAnalysis.git)
 * Academic Supervisor: [Dr. Fernando Koch] (http://www.fernandokoch.me)
 
+The Report.md is a Word document named Report.md.DesignPrompt.docx
